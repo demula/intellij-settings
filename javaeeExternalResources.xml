@@ -1,0 +1,11 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://movilitas.com/movilizer/v10" location="$APPLICATION_PLUGINS_DIR$/movilizer-intellijidea/lib/movilizer-intellijidea.jar!/MovilizerV10.xsd" />
+    <resource url="http://movilitas.com/movilizer/v11" location="$APPLICATION_PLUGINS_DIR$/movilizer-intellijidea/lib/movilizer-intellijidea.jar!/MovilizerV11.xsd" />
+    <resource url="http://movilitas.com/movilizer/v12" location="$APPLICATION_PLUGINS_DIR$/movilizer-intellijidea/lib/movilizer-intellijidea.jar!/MovilizerV12.xsd" />
+    <resource url="http://movilitas.com/movilizer/v14" location="$APPLICATION_PLUGINS_DIR$/movilizer-intellijidea/lib/movilizer-intellijidea.jar!/MovilizerV14.xsd" />
+    <resource url="http://movilitas.com/movilizer/v15" location="$APPLICATION_PLUGINS_DIR$/movilizer-intellijidea/lib/movilizer-intellijidea.jar!/MovilizerV15.xsd" />
+    <resource url="http://movilitas.com/movilizer/v8" location="$APPLICATION_PLUGINS_DIR$/movilizer-intellijidea/lib/movilizer-intellijidea.jar!/MovilizerV08.xsd" />
+    <resource url="http://movilitas.com/movilizer/v9" location="$APPLICATION_PLUGINS_DIR$/movilizer-intellijidea/lib/movilizer-intellijidea.jar!/MovilizerV09.xsd" />
+  </component>
+</application>

@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Groovy/Groovy-style/Change Java-style accessor invocation to Groovy-style property reference" />
+  </component>
+</application>

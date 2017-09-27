@@ -1,0 +1,36 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.2.1" last-modified="1501705063000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.2.1/bin/node" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://devtools.movilizer.com/jira">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfc3dfd8dfd8dfcfdfcddfdfdfc6dfcbdfd8dfc3dfcedfcbdfce</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="6.4.12" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>jdemula</username>
+    </JIRA>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_VARIABLE" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="TYPE_COOK_EXHAUSTIVE" value="true" />
+    <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
+    <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>

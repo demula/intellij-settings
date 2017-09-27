@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="rules" type="Groovy" />
+      <mapping ext="ejs" type="JSP" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="movelet" type="XML" />
+    </extensionMap>
+  </component>
+</application>
