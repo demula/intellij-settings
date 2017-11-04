@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="rules" type="Groovy" />
       <mapping ext="ejs" type="JSP" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="movelet" type="XML" />
     </extensionMap>
