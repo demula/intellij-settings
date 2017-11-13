@@ -8,7 +8,7 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 3.6.2 virtualenv at ~/Source/personal/tensorflow-tutorial/venv interpreter library">
+    <library name="Python 3.6.3 virtualenv at ~/Source/personal/rat-wheel-botter/.venv interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/Source/personal/tensorflow-tutorial/venv/lib/python3.6" />
         <root url="file://$USER_HOME$/Source/personal/tensorflow-tutorial/venv/lib/python3.6/lib-dynload" />
