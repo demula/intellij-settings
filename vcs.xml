@@ -6,6 +6,10 @@
           <option name="url" value="http://source.movilizer.com" />
           <option name="userName" value="jdemula" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://progit.movilizer.com" />
+          <option name="userName" value="jdemula" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
